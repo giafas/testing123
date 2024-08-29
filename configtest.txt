@@ -1,0 +1,25 @@
+{
+    "multiPlayerSort": 0,
+    "framesPerSecond": 10,
+    "reduceAudio": true,
+    "displayMode": true,
+    "vmdkFastMode": false,
+    "cloneFromSmallDisk": false,
+    "windowsAlignType": 0,
+    "windowsRowCount": 4,
+    "windowsAutoSize": true,
+    "sortwndnotoutscreen": true,
+    "moreScreenSortInSame": true,
+    "windowsOrigin": {
+        "x": 0,
+        "y": 0
+    },
+    "windowsOffset": {
+        "x": 40,
+        "y": 40
+    },
+    "batchStartInterval": 5,
+    "batchNewCount": 5,
+    "batchCloneCount": 5,
+    "windowsRecordPos": true
+}
